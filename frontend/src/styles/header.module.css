@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222;
+    padding: 15px;
+  }
+  
+  .navLinks {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .navLinks a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .navLinks a:hover {
+    text-decoration: underline;
+  }
+  
